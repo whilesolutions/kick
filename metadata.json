@@ -1,0 +1,6 @@
+{
+  "name": "Kicks Selector - Selección Rápida para Meta Ads",
+  "description": "Experiencia móvil ultrarrápida para selección de calzado y streetwear de Kicks Venezuela antes de redirigir a Shopify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
